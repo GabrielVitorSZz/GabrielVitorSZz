@@ -1,16 +1,14 @@
-## Hi there 👋
+### I'm Kiyo 🐱‍🚀
+### My name is Gabriel I live in Brazil, also known as Kiyo. I am 22 years old and am currently focused on my degree in Information Systems at the Federal Institute of Goiás.
 
-<!--
-**GabrielVitorSZz/GabrielVitorSZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GabrielVitor GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVitorSZz&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style = "display: inline_block"><br/>
+ <img align = "center" alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align = "center" alt="Java" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+ </div>
+
+ ***

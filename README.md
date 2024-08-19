@@ -1,5 +1,5 @@
 ### I'm Kiyo 🐱‍🚀
-### My name is Gabriel I live in Brazil, also known as Kiyo. I am 22 years old and am currently focused on my degree in Information Systems at the Federal Institute of Goiás.
+### My name is Gabriel, also known as Kiyo. I am 22 years old and am currently focused on my degree in Information Systems at the Federal Institute of Goiás.
 
 ![GabrielVitor GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVitorSZz&show_icons=true&theme=radical)
 

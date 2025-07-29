@@ -2,8 +2,8 @@
 
 
 
-### I'm Kiyo 🐱‍🚀
-My name is Gabriel, also known as Kiyo. I am 22 years old and am currently focused on my degree in Information Systems at the Federal Institute of Goiás.
+### I'm Gabriel 🐱‍🚀
+My name is Gabriel, also known as Biel. I am 22 years old and am currently focused on my degree in Information Systems at the Federal Institute of Goiás.
 
 <img align="right" height="300px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 

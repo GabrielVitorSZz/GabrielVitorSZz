@@ -3,7 +3,7 @@
 
 
 ### I'm Gabriel 🐱‍🚀
-My name is Gabriel, also known as Biel. I am 22 years old and am currently focused on my degree in Information Systems at the Federal Institute of Goiás.
+My name is Gabriel. I am 22 years old and am currently focused on my degree in Information Systems at the Federal Institute of Goiás.
 
 <img align="right" height="300px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
@@ -18,10 +18,7 @@ My name is Gabriel, also known as Biel. I am 22 years old and am currently focus
 
 Objetivo Profissional 
 Desenvolvedor em formação, buscando uma oportunidade para aplicar e expandir 
-conhecimentos técnicos e interpessoais. Interesse especial em desenvolvimento 
-de software com foco em Java, PostgreSQL, análise de dados com Power BI, e 
-sistemas web ou desktop. Comprometido com aprendizado contínuo e entrega de 
-soluções inovadoras. 
+conhecimentos técnicos e interpessoais.
 
 ![GabrielVitor GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVitorSZz&show_icons=true&theme=radical)
 
